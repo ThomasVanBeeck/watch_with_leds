@@ -4,10 +4,5 @@ A low-power digital watch built with C/C++ on an ATtiny microprocessor. The time
 
 # PCB design
 
-<img src="top.jpg" alt="Top view" width="200px" />
-<img src="bottom.jpg" alt="Bottom view" width="200px" />
-
-
-![Top view](top.jpg)
-
-![Bottom view](bottom.jpg)
+<img src="top.jpg" alt="Top view" width="500px" />
+<img src="bottom.jpg" alt="Bottom view" width="500px" />
