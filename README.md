@@ -3,6 +3,6 @@ A low-power digital watch built with C/C++ on an ATtiny microprocessor. The time
 
 
 # PCB design
-![Top view](iso%20top.jpg)
+![Top view](top.jpg)
 
-![Bottom view](iso%20bottom.jpg)
+![Bottom view](bottom.jpg)
